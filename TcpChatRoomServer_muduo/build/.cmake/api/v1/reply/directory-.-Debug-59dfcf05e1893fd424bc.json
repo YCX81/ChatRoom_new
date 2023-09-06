@@ -1,0 +1,88 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 26,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 30,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"libmuduo_base.a"
+			],
+			"targetId" : "muduo_base::@6890427a1f51a3e7e1df",
+			"targetIndex" : 0,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include/muduo/base",
+			"paths" : 
+			[
+				"AsyncLogging.h",
+				"Atomic.h",
+				"BlockingQueue.h",
+				"BoundedBlockingQueue.h",
+				"Condition.h",
+				"CountDownLatch.h",
+				"CurrentThread.h",
+				"Date.h",
+				"Exception.h",
+				"FileUtil.h",
+				"GzipFile.h",
+				"LogFile.h",
+				"LogStream.h",
+				"Logging.h",
+				"Mutex.h",
+				"ProcessInfo.h",
+				"Singleton.h",
+				"StringPiece.h",
+				"Thread.h",
+				"ThreadLocal.h",
+				"ThreadLocalSingleton.h",
+				"ThreadPool.h",
+				"TimeZone.h",
+				"Timestamp.h",
+				"Types.h",
+				"WeakCallback.h",
+				"copyable.h",
+				"noncopyable.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	}
+}

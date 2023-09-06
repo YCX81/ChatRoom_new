@@ -1,0 +1,12 @@
+/home/ycx/Downloads/TcpChatRoomServer_muduo/muduo/net/tests/build/CMakeFiles/channel_test.dir
+/home/ycx/Downloads/TcpChatRoomServer_muduo/muduo/net/tests/build/CMakeFiles/echoserver_unittest.dir
+/home/ycx/Downloads/TcpChatRoomServer_muduo/muduo/net/tests/build/CMakeFiles/echoclient_unittest.dir
+/home/ycx/Downloads/TcpChatRoomServer_muduo/muduo/net/tests/build/CMakeFiles/eventloop_unittest.dir
+/home/ycx/Downloads/TcpChatRoomServer_muduo/muduo/net/tests/build/CMakeFiles/eventloopthread_unittest.dir
+/home/ycx/Downloads/TcpChatRoomServer_muduo/muduo/net/tests/build/CMakeFiles/eventloopthreadpool_unittest.dir
+/home/ycx/Downloads/TcpChatRoomServer_muduo/muduo/net/tests/build/CMakeFiles/tcpclient_reg1.dir
+/home/ycx/Downloads/TcpChatRoomServer_muduo/muduo/net/tests/build/CMakeFiles/tcpclient_reg2.dir
+/home/ycx/Downloads/TcpChatRoomServer_muduo/muduo/net/tests/build/CMakeFiles/tcpclient_reg3.dir
+/home/ycx/Downloads/TcpChatRoomServer_muduo/muduo/net/tests/build/CMakeFiles/timerqueue_unittest.dir
+/home/ycx/Downloads/TcpChatRoomServer_muduo/muduo/net/tests/build/CMakeFiles/edit_cache.dir
+/home/ycx/Downloads/TcpChatRoomServer_muduo/muduo/net/tests/build/CMakeFiles/rebuild_cache.dir

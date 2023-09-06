@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/channel_test.dir/Channel_test.o -o channel_test  -lmuduo_net 
